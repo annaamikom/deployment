@@ -12,7 +12,7 @@ Proyek ini adalah aplikasi web sederhana untuk memprediksi jenis bunga IRIS (Set
 - Python 3.x
 - Flask
 - scikit-learn
-- joblib (untuk serialisasi model)
+- pickle
 
 ## Struktur Proyek
 ├── app.py # Aplikasi Flask utama<br>
