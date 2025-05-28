@@ -15,9 +15,9 @@ Proyek ini adalah aplikasi web sederhana untuk memprediksi jenis bunga IRIS (Set
 - joblib (untuk serialisasi model)
 
 ## Struktur Proyek
-├── app.py # Aplikasi Flask utama
-├── model
- └──model_numpy.pkl # Model Machine Learning yang telah dilatih dan disimpan
-├── templates/
-│ └── index.html # Template HTML untuk form input dan hasil, CSS sudah include 
-└── requirements.txt # Daftar dependensi
+├── app.py # Aplikasi Flask utama<br>
+├── model/<br>
+ └──model_numpy.pkl # Model Machine Learning yang telah dilatih dan disimpan<br>
+├── templates/<br>
+│ └── index.html # Template HTML untuk form input dan hasil, CSS sudah include <br>
+└── requirements.txt # Daftar dependensi<br>
